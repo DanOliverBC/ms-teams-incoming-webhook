@@ -81,4 +81,11 @@
         </dependency>
 
     </dependencies>
+
+    <distributionManagement>
+        <repository>
+            <id>bpa-feed</id>
+            <url>https://pkgs.dev.azure.com/BCCITAzure/d70d3262-803e-4bf7-9d82-be827add4008/_packaging/bpa-feed/maven/v1</url>
+        </repository>
+    </distributionManagement>
 </project>
